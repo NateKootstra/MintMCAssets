@@ -9,8 +9,6 @@
 
     
 
-    { "predicate": {"custom_model_data": 10001}, "model": "minecraft:item/custom/item/coin" },
-
     { "predicate": {"custom_model_data": 20001}, "model": "minecraft:item/custom/item/burger" },
 
     { "predicate": {"custom_model_data": 30001}, "model": "minecraft:item/custom/item/villager_grabber" }
