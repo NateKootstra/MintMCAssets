@@ -10,6 +10,8 @@
     
 
     { "predicate": {"custom_model_data": 10001}, "model": "minecraft:item/custom/item/accessories/rings/ruby" },
+    { "predicate": {"custom_model_data": 10002}, "model": "minecraft:item/custom/item/accessories/rings/onyx" },
+    { "predicate": {"custom_model_data": 10003}, "model": "minecraft:item/custom/item/accessories/rings/sapphire" },
 
     { "predicate": {"custom_model_data": 20001}, "model": "minecraft:item/custom/item/food/burger" },
 
