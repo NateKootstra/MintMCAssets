@@ -9,9 +9,11 @@
 
     
 
-    { "predicate": {"custom_model_data": 20001}, "model": "minecraft:item/custom/item/burger" },
+    { "predicate": {"custom_model_data": 10001}, "model": "minecraft:item/custom/item/accessories/rings/ruby" },
 
-    { "predicate": {"custom_model_data": 30001}, "model": "minecraft:item/custom/item/villager_grabber" }
+    { "predicate": {"custom_model_data": 20001}, "model": "minecraft:item/custom/item/food/burger" },
+
+    { "predicate": {"custom_model_data": 30001}, "model": "minecraft:item/custom/item/tools/villager_grabber" }
     
     ]
 }

@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "item/villager_grabber"
+        "layer0": "item/tools/villager_grabber"
     }
 }
