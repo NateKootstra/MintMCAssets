@@ -16,6 +16,11 @@
     { "predicate": {"custom_model_data": 10003}, "model": "minecraft:item/custom/item/accessories/rings/sapphire" },
 
     { "predicate": {"custom_model_data": 11001}, "model": "minecraft:item/custom/item/accessories/emblems/lightning" },
+    { "predicate": {"custom_model_data": 11002}, "model": "minecraft:item/custom/item/accessories/emblems/blindness" },
+    { "predicate": {"custom_model_data": 11003}, "model": "minecraft:item/custom/item/accessories/emblems/glowing" },
+    { "predicate": {"custom_model_data": 11004}, "model": "minecraft:item/custom/item/accessories/emblems/levitation" },
+    { "predicate": {"custom_model_data": 11005}, "model": "minecraft:item/custom/item/accessories/emblems/slowness" },
+    { "predicate": {"custom_model_data": 11006}, "model": "minecraft:item/custom/item/accessories/emblems/weakness" },
 
 
 
