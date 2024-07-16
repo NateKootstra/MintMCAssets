@@ -21,6 +21,7 @@
     { "predicate": {"custom_model_data": 11004}, "model": "minecraft:item/custom/item/accessories/emblems/levitation" },
     { "predicate": {"custom_model_data": 11005}, "model": "minecraft:item/custom/item/accessories/emblems/slowness" },
     { "predicate": {"custom_model_data": 11006}, "model": "minecraft:item/custom/item/accessories/emblems/weakness" },
+    { "predicate": {"custom_model_data": 11007}, "model": "minecraft:item/custom/item/accessories/emblems/luck" },
 
 
 
