@@ -1,0 +1,11 @@
+{
+    "music_disc.mint": {
+        "replace" : true,
+        "sounds" : [
+            {
+                "name" : "mint",
+                "stream" : true
+            }
+        ]
+    }
+}
