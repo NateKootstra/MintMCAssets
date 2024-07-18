@@ -26,6 +26,8 @@
     { "predicate": {"custom_model_data": 11006}, "model": "minecraft:item/custom/item/accessories/emblems/weakness" },
     { "predicate": {"custom_model_data": 11007}, "model": "minecraft:item/custom/item/accessories/emblems/luck" },
 
+    { "predicate": {"custom_model_data": 12001}, "model": "minecraft:item/custom/item/accessories/artifacts/gilded_feather" },
+
 
 
     { "predicate": {"custom_model_data": 20001}, "model": "minecraft:item/custom/item/food/burger" },
