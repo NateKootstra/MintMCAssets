@@ -44,7 +44,9 @@
 
 
 
-    { "predicate": {"custom_model_data": 60001}, "model": "minecraft:item/custom/item/weapons/magic/fireball_staff" }
+    { "predicate": {"custom_model_data": 60001}, "model": "minecraft:item/custom/item/weapons/magic/fireball_staff" },
+    { "predicate": {"custom_model_data": 60002}, "model": "minecraft:item/custom/item/weapons/magic/ice_beam_staff" },
+    { "predicate": {"custom_model_data": 60003}, "model": "minecraft:item/custom/item/weapons/magic/void_staff" }
     
     ]
 }
